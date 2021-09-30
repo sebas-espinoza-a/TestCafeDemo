@@ -1,0 +1,54 @@
+{
+  "uid" : "bec5cc35e0f96bda",
+  "name" : "Assert home page",
+  "fullName" : "E2E Fixture.Assert home page",
+  "historyId" : "944dbf699c1126a8d881e6cdcee50fa5",
+  "time" : {
+    "start" : 1633014123960,
+    "stop" : 1633014135906,
+    "duration" : 11946
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "testMethod",
+    "value" : "Assert home page"
+  }, {
+    "name" : "package",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 94.0.4606.61 / Linux 0.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bec5cc35e0f96bda.json",
+  "parameterValues" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+}

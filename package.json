@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "testcafe": "^1.16.0"
+  },
+  "name": "testcafedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.1",
+    "allure-commandline": "^2.13.8",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "scripts": {
+    "tests": "testcafe"
+  },
+  "author": "Esteban",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "404c01ff4fddc34c",
+  "name" : "Place Order E2E Tests",
+  "fullName" : "E2E Fixture.Place Order E2E Tests",
+  "historyId" : "fc90c51ad1be905936df00eb01349a13",
+  "time" : {
+    "start" : 1633014200354,
+    "stop" : 1633014276187,
+    "duration" : 75833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "testMethod",
+    "value" : "Place Order E2E Tests"
+  }, {
+    "name" : "package",
+    "value" : "E2E Fixture"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 94.0.4606.61 / Linux 0.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "404c01ff4fddc34c.json",
+  "parameterValues" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+}

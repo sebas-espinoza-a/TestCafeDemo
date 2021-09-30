@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 30 09:53:28 ECT 2021","Thu Sep 30 09:53:39 ECT 2021","11111","","Registration Fixture","","Registration Fixture","Assert home page","Assert home page",""
+"passed","Thu Sep 30 10:02:03 ECT 2021","Thu Sep 30 10:02:15 ECT 2021","11946","","E2E Fixture","","E2E Fixture","Assert home page","Assert home page",""
+"passed","Thu Sep 30 09:55:43 ECT 2021","Thu Sep 30 09:56:27 ECT 2021","43801","","Registration Fixture","","Registration Fixture","User Registration and Login Test","User Registration and Login Test",""
+"passed","Thu Sep 30 10:03:20 ECT 2021","Thu Sep 30 10:04:36 ECT 2021","75833","","E2E Fixture","","E2E Fixture","Place Order E2E Tests","Place Order E2E Tests",""

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e28cd3897f7a86b3",
+  "name" : "User Registration and Login Test",
+  "time" : {
+    "start" : 1633013743903,
+    "stop" : 1633013787704,
+    "duration" : 43801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f22b2a56cf9a28b",
+  "name" : "Assert home page",
+  "time" : {
+    "start" : 1633013608393,
+    "stop" : 1633013619504,
+    "duration" : 11111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "404c01ff4fddc34c",
+  "name" : "Place Order E2E Tests",
+  "time" : {
+    "start" : 1633014200354,
+    "stop" : 1633014276187,
+    "duration" : 75833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bec5cc35e0f96bda",
+  "name" : "Assert home page",
+  "time" : {
+    "start" : 1633014123960,
+    "stop" : 1633014135906,
+    "duration" : 11946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

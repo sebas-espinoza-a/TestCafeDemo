@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Registration Fixture",
+    "children" : [ {
+      "name" : "Assert home page",
+      "uid" : "4f22b2a56cf9a28b",
+      "parentUid" : "f48145eb3b8a24fa7fb6d0f2e9839641",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633013608393,
+        "stop" : 1633013619504,
+        "duration" : 11111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+    }, {
+      "name" : "User Registration and Login Test",
+      "uid" : "e28cd3897f7a86b3",
+      "parentUid" : "f48145eb3b8a24fa7fb6d0f2e9839641",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633013743903,
+        "stop" : 1633013787704,
+        "duration" : 43801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+    } ],
+    "uid" : "f48145eb3b8a24fa7fb6d0f2e9839641"
+  }, {
+    "name" : "E2E Fixture",
+    "children" : [ {
+      "name" : "Assert home page",
+      "uid" : "bec5cc35e0f96bda",
+      "parentUid" : "384c3d6a2712564dd0213fad7b56e1ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633014123960,
+        "stop" : 1633014135906,
+        "duration" : 11946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+    }, {
+      "name" : "Place Order E2E Tests",
+      "uid" : "404c01ff4fddc34c",
+      "parentUid" : "384c3d6a2712564dd0213fad7b56e1ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633014200354,
+        "stop" : 1633014276187,
+        "duration" : 75833
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 94.0.4606.61 / Linux 0.0" ]
+    } ],
+    "uid" : "384c3d6a2712564dd0213fad7b56e1ec"
+  } ]
+}
