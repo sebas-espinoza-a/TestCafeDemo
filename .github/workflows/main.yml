@@ -1,8 +1,8 @@
 name: Target Multiple Node.js Versions and Operating Systems
 on: 
-  schedule:
-    - cron: "0 2 * * *"
-
+  push:
+    branches:    
+      - main
 jobs:
   build:
     name: Run Tests Across Node.js Versions and Operating Systems
